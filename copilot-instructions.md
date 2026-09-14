@@ -1,0 +1,1 @@
+/home/arlon/Dev/PersonalProjects/shopify-themes/Elizabeth/AGENTS.md
